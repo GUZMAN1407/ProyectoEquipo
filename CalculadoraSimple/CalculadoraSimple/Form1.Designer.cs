@@ -43,6 +43,7 @@
             // 
             // txtNum1
             // 
+            this.txtNum1.BackColor = System.Drawing.SystemColors.Info;
             this.txtNum1.Location = new System.Drawing.Point(120, 20);
             this.txtNum1.Name = "txtNum1";
             this.txtNum1.Size = new System.Drawing.Size(120, 22);
@@ -50,6 +51,7 @@
             // 
             // txtNum2
             // 
+            this.txtNum2.BackColor = System.Drawing.SystemColors.Info;
             this.txtNum2.Location = new System.Drawing.Point(318, 20);
             this.txtNum2.Name = "txtNum2";
             this.txtNum2.Size = new System.Drawing.Size(120, 22);
@@ -57,6 +59,7 @@
             // 
             // txtResultado
             // 
+            this.txtResultado.BackColor = System.Drawing.SystemColors.Info;
             this.txtResultado.Location = new System.Drawing.Point(221, 118);
             this.txtResultado.Name = "txtResultado";
             this.txtResultado.Size = new System.Drawing.Size(120, 22);
@@ -65,78 +68,95 @@
             // 
             // btnSuma
             // 
+            this.btnSuma.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.btnSuma.Location = new System.Drawing.Point(104, 60);
             this.btnSuma.Name = "btnSuma";
             this.btnSuma.Size = new System.Drawing.Size(75, 23);
             this.btnSuma.TabIndex = 3;
             this.btnSuma.Text = "+";
+            this.btnSuma.UseVisualStyleBackColor = false;
             this.btnSuma.Click += new System.EventHandler(this.btnSuma_Click);
             // 
             // btnResta
             // 
+            this.btnResta.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.btnResta.Location = new System.Drawing.Point(387, 60);
             this.btnResta.Name = "btnResta";
             this.btnResta.Size = new System.Drawing.Size(75, 23);
             this.btnResta.TabIndex = 4;
             this.btnResta.Text = "-";
+            this.btnResta.UseVisualStyleBackColor = false;
             this.btnResta.Click += new System.EventHandler(this.btnResta_Click);
             // 
             // btnMulti
             // 
+            this.btnMulti.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.btnMulti.Location = new System.Drawing.Point(198, 60);
             this.btnMulti.Name = "btnMulti";
             this.btnMulti.Size = new System.Drawing.Size(75, 23);
             this.btnMulti.TabIndex = 5;
             this.btnMulti.Text = "*";
+            this.btnMulti.UseVisualStyleBackColor = false;
             this.btnMulti.Click += new System.EventHandler(this.btnMulti_Click);
             // 
             // btnDiv
             // 
+            this.btnDiv.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.btnDiv.Location = new System.Drawing.Point(292, 60);
             this.btnDiv.Name = "btnDiv";
             this.btnDiv.Size = new System.Drawing.Size(75, 23);
             this.btnDiv.TabIndex = 6;
             this.btnDiv.Text = "/";
+            this.btnDiv.UseVisualStyleBackColor = false;
             this.btnDiv.Click += new System.EventHandler(this.btnDiv_Click);
             // 
             // btnIgual
             // 
+            this.btnIgual.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.btnIgual.Location = new System.Drawing.Point(244, 89);
             this.btnIgual.Name = "btnIgual";
             this.btnIgual.Size = new System.Drawing.Size(75, 23);
             this.btnIgual.TabIndex = 7;
             this.btnIgual.Text = "=";
+            this.btnIgual.UseVisualStyleBackColor = false;
             this.btnIgual.Click += new System.EventHandler(this.btnIgual_Click);
             // 
             // btnLimpiar
             // 
+            this.btnLimpiar.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.btnLimpiar.Location = new System.Drawing.Point(104, 159);
             this.btnLimpiar.Name = "btnLimpiar";
             this.btnLimpiar.Size = new System.Drawing.Size(75, 23);
             this.btnLimpiar.TabIndex = 8;
             this.btnLimpiar.Text = "Limpiar";
+            this.btnLimpiar.UseVisualStyleBackColor = false;
             this.btnLimpiar.Click += new System.EventHandler(this.btnLimpiar_Click);
             // 
             // btnHistorial
             // 
+            this.btnHistorial.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.btnHistorial.Location = new System.Drawing.Point(244, 159);
             this.btnHistorial.Name = "btnHistorial";
             this.btnHistorial.Size = new System.Drawing.Size(75, 23);
             this.btnHistorial.TabIndex = 9;
             this.btnHistorial.Text = "Ver Historial";
+            this.btnHistorial.UseVisualStyleBackColor = false;
             this.btnHistorial.Click += new System.EventHandler(this.btnHistorial_Click);
             // 
             // btnCerrar
             // 
+            this.btnCerrar.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.btnCerrar.Location = new System.Drawing.Point(387, 159);
             this.btnCerrar.Name = "btnCerrar";
             this.btnCerrar.Size = new System.Drawing.Size(75, 23);
             this.btnCerrar.TabIndex = 10;
             this.btnCerrar.Text = "Cerrar";
+            this.btnCerrar.UseVisualStyleBackColor = false;
             this.btnCerrar.Click += new System.EventHandler(this.btnCerrar_Click);
             // 
             // Form1
             // 
+            this.BackColor = System.Drawing.SystemColors.Highlight;
             this.ClientSize = new System.Drawing.Size(592, 225);
             this.Controls.Add(this.txtNum1);
             this.Controls.Add(this.txtNum2);
