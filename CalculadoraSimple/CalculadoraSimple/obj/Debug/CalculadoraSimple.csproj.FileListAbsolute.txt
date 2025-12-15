@@ -1,0 +1,10 @@
+C:\Users\fermt\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\bin\Debug\CalculadoraSimple.exe.config
+C:\Users\fermt\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\bin\Debug\CalculadoraSimple.exe
+C:\Users\fermt\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\bin\Debug\CalculadoraSimple.pdb
+C:\Users\fermt\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.csproj.AssemblyReference.cache
+C:\Users\fermt\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.Form1.resources
+C:\Users\fermt\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.Properties.Resources.resources
+C:\Users\fermt\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.csproj.GenerateResource.cache
+C:\Users\fermt\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.csproj.CoreCompileInputs.cache
+C:\Users\fermt\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.exe
+C:\Users\fermt\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.pdb
