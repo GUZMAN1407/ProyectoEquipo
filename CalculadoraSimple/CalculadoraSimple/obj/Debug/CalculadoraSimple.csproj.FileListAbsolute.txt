@@ -28,3 +28,13 @@ C:\Users\paola\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\obj\Debug\Calc
 C:\Users\paola\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.csproj.CoreCompileInputs.cache
 C:\Users\paola\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.exe
 C:\Users\paola\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.pdb
+C:\Users\diazb\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\bin\Debug\CalculadoraSimple.exe.config
+C:\Users\diazb\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\bin\Debug\CalculadoraSimple.exe
+C:\Users\diazb\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\bin\Debug\CalculadoraSimple.pdb
+C:\Users\diazb\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.csproj.AssemblyReference.cache
+C:\Users\diazb\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.Form1.resources
+C:\Users\diazb\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.Properties.Resources.resources
+C:\Users\diazb\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.csproj.GenerateResource.cache
+C:\Users\diazb\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.csproj.CoreCompileInputs.cache
+C:\Users\diazb\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.exe
+C:\Users\diazb\ProyectoEquipo\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.pdb
