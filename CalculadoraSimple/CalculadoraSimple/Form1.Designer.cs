@@ -45,21 +45,21 @@
             // 
             this.txtNum1.Location = new System.Drawing.Point(120, 20);
             this.txtNum1.Name = "txtNum1";
-            this.txtNum1.Size = new System.Drawing.Size(120, 20);
+            this.txtNum1.Size = new System.Drawing.Size(120, 22);
             this.txtNum1.TabIndex = 0;
             // 
             // txtNum2
             // 
             this.txtNum2.Location = new System.Drawing.Point(318, 20);
             this.txtNum2.Name = "txtNum2";
-            this.txtNum2.Size = new System.Drawing.Size(120, 20);
+            this.txtNum2.Size = new System.Drawing.Size(120, 22);
             this.txtNum2.TabIndex = 1;
             // 
             // txtResultado
             // 
             this.txtResultado.Location = new System.Drawing.Point(221, 118);
             this.txtResultado.Name = "txtResultado";
-            this.txtResultado.Size = new System.Drawing.Size(120, 20);
+            this.txtResultado.Size = new System.Drawing.Size(120, 22);
             this.txtResultado.TabIndex = 2;
             this.txtResultado.TextChanged += new System.EventHandler(this.txtResultado_TextChanged);
             // 
@@ -151,6 +151,7 @@
             this.Controls.Add(this.btnCerrar);
             this.Name = "Form1";
             this.Text = "Calculadora con Historial";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
